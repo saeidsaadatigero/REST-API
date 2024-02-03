@@ -6,13 +6,8 @@ Django rest api framework
 
 > ```sh
 > pip install django
-> ```
-> > ```sh
-> pip install djangorestframework
-> ```
-> > ```sh
-> pip install markdown
-> ```
-> ```sh
+>pip install djangorestframework
+>pip install markdown
 > pip install django-filter
 > ```
+
